@@ -1,0 +1,18 @@
+{
+    "choices": {
+        "creationDateLang": "$discord"
+    },
+    "settings": {
+        "changeForEdit": false,
+        "cutSeconds": false,
+        "displayDate": true,
+        "displayTime": true,
+        "forceZeros": false,
+        "otherOrder": false,
+        "showInChat": true,
+        "showOnHover": false
+    },
+    "formats": {
+        "ownFormat": "$hour:$minute:$second, $day.$month.$year"
+    }
+}
