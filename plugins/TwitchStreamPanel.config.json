@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "colors": true,
+        "debug": false,
+        "freq": 300,
+        "state": true,
+        "update": true
+    }
+}

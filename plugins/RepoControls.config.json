@@ -1,0 +1,11 @@
+{
+    "sortings": {
+        "order": "asc",
+        "sort": "name"
+    },
+    "settings": {
+        "addDeleteButton": true,
+        "confirmDelete": true,
+        "enableHTML": true
+    }
+}

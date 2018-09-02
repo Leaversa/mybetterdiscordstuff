@@ -1,0 +1,4 @@
+//META{"name":"revertTitlebar","description":"Brings back how the titlebar used to be.","author":"intrnl","version":"0.0"}*//{}
+
+@import url(https://rawgit.com/intrnl/discordAdditions/master/revertTitlebar/themefile.css);
+@import url(https://rawgit.com/intrnl/discordAdditions/master/revertTitlebar/themefile_notice.css);

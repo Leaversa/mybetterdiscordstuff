@@ -1,0 +1,8 @@
+//META{"name":"FullSizePfp","description":"Full size profile pictures for user popouts. Please use the support server listed below if you need any help.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+
+@import url(https://rawgit.com/satoru8/FullSizePfp/master/FullSizePfp.css);
+
+:root {
+	--profileradius: 0px; /* 0 is normal squared edges. Up to 50px for rounded profiles. */
+	--color: #fff /* Name colour */
+}
