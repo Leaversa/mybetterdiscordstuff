@@ -1,0 +1,221 @@
+
+
+
+.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+#bd-settingspane-container .bda-right button {
+    position: none
+}
+.theme-dark .searchBar-YMJBu9 {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.CodeMirror-gutter {
+    background: rgba(0, 0, 0, 0.5);
+}
+button.copybutton {
+  color:#839496 !important;
+  background-color: transparent !important;
+  border-color: transparent !important
+}
+.theme-dark .members-1bid1J {
+    background-color: rgba(1, 1, 1, 0.5) !important;
+}
+.theme-dark .members-1998pB {
+    background-color: transparent !important;
+}
+
+.ace-monokai .ace_gutter {
+    color:#f6f6f7;
+}
+.editor {
+    background: rgba(0, 0, 0, 0) !important;
+}
+.ace-monokai .ace_gutter {
+    background: rgba(0, 0, 0, 0.2) !important;
+}
+.ace_search, .ace_search_field, .ace_searchbtn, .ace_button {
+    background: rgba(0, 0, 0, 0.5) !important;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    color: #fff;
+}
+.bda-slist .bda-footer .bda-link .bda-setting{
+    color: #ff6262;
+}
+.bda-slist .bda-footer {
+    color: none ;
+}
+.title-3qD0b-, .guilds-wrapper .guilds, .header-2o-2hj, .theme-dark .menu-Sp6bN1 {
+    background:  rgba(0, 0, 0, 0.5) !important;
+}
+.theme-dark .item-1GzJrl.invite-271nFU, .app .welcomeMessage-3_Mcht h1, .theme-dark .welcomeMessage-3_Mcht a {
+    color: #ff6262;
+}
+.app button {
+    color: #fff;
+}
+.bda-slist .bda-footer button {
+    background-color: #ff6262 !important
+}
+.bda-slist .bda-footer a {
+    color: #ff6262 !important
+}
+.theme-dark .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi .message-group .actionButtons-1sUUug, .theme-dark .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi .message-group .actionButtons-1sUUug .jumpButton-3DTcS_, .themedPopout-25DgLi, .messagesPopout-24nkyi .message-group,  .theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX{
+    background-color:  rgba(0, 0, 0, 0.3) !important;
+}
+.theme-dark .member-3W1lQa:hover .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {
+    background-color:  rgba(0, 0, 0, 0.1) !important;
+}
+.title-3qD0b-, .guilds-wrapper .guilds, .header-2o-2hj, .theme-dark .menu-Sp6bN1 {
+        border-radius: 0px 0px 0px 8px;
+}
+.container-2Thooq {
+    background-color: rgba(0,0,0,0.5) !important;
+    border-radius: 0px 0px 0px 0px !important;
+    margin-bottom: 0px;
+}
+.private-channels .search-bar {
+    background-color: rgba(0,0,0,0.5);
+}
+.icon-2shpbb, .icon-2doZ3q {
+    filter: hue-rotate(120deg) contrast(2);
+}
+.lookOutlined-3sRXeN:hover {
+    color: #ff6262;
+    border-color: rgb(255, 98, 98) !important;
+}
+.lookOutlined-3sRXeN.colorBrand-3pXr91, .anchor-3Z-8Bb {
+    color: #ff6262;
+    border-color: rgba(255, 98, 98, 0.4);
+}
+.theme-dark .guildIcon-lQ0uiM {
+    background-color: #ff6262;
+}
+.botTagRegular-2HEhHi {
+    background: #ff6262;
+}
+
+/* Games Tab */
+.theme-dark .activityFeed-28jde9  {
+    background-color:  rgba(0, 0, 0, 0.5) !important;
+}
+.theme-dark .card-7JP0BX {
+     background-color:  rgba(0, 0, 0, 0.2) !important;
+}
+.header-1RC2Wb {
+    background-color:  rgba(47, 49, 54, 0.4) !important;
+}
+.article-FleDq5 {
+    background-color: transparent;
+}
+.selectedPage-2JQS2s:before, .theme-dark .lookFilled-1Gx00P.hoverBrand-1_Fxlk.hasHover-3X1-zV:hover, .theme-light .lookFilled-1Gx00P.hoverBrand-1_Fxlk.hasHover-3X1-zV:hover {
+    background-color:#ff6262;
+}
+.paginationItem-3-MBTL {
+    background-color: rgba(47, 49, 54, 0.4) !important;
+}
+.carousel-JbsNzL, .dockItem-2kQDqg {
+    background-color: transparent !important;
+}
+/* public servers */
+.bd-modal-wrapper .header, .bd-modal-wrapper .bd-modal-body {
+    background-color: rgba(0,0,0,0 ) !important;
+}
+.theme-dark .layer, .theme-dark .layers {
+    background-color: rgba(0,0,0,0) !important;
+}
+#pubslayer button, #pubslayer button:hover {
+    background-color: #ca5e5e !important
+}
+.bd-server-card.bd-server-card-pinned:after, .bd-modal-wrapper .footer button {
+    background-color: #ff6262 !important
+}
+.bd-backdrop {
+    background-color: (0,0,0,0.5);
+}
+.theme-dark .headerBar-UHpsPw {
+    background-color: (0,0,0,0.5);
+}
+.chat.private .content .flex-spacer {
+    border-radius:0px 0px 0px !important;
+}
+.anchor-3Z-8Bb {
+    color: #fff;
+}
+#sendembeds > * {
+    background-color: rgba(0, 0, 0, 0.55);
+}
+.button-group > *, button.save.da-save{
+    background-color: #ff6262 !important
+}
+.option input, .presets input, .overlay input{
+    color: white;
+}
+.app h1 {
+    color: #ff6262;
+}
+.channelNotices-41mJbj .channelNotice-1-XFjC.quickswitcher-35bYg4 {
+    background: rgba(0, 0, 0, 0.5) url(/assets/8fdb69b7684b8e1ecb3fdde909daca41.svg) no-repeat center 35px;
+    padding: 100px 20px 20px;
+}
+.channelNotices-41mJbj .channelNotice-1-XFjC .message-3SOT5P .btn-11C5_u {
+    background-color: #ff6262;
+}
+.theme-dark .card-FDVird:before {
+    background-color: rgba(0, 0, 0, .3);
+    border-color: rgba(0, 0, 0, .3);
+}
+.noticeInfo-3_iTE1 {
+    background-color: #ff6262;
+}
+.chat .new-messages-bar {
+    background-color: rgba(255, 98, 98, 0.9);
+    -webkit-transition: rgba(255, 98, 98, 0.5) .2s;
+}
+.chat .new-messages-bar button:last-child {
+    color:#fff;
+}
+#app-mount > div.app-19_DXt.platform-win.da-app.da-platformWin > div > div.layers-3iHuyZ.flex-vertical.flex-spacer.da-layers.da-flexVertical.da-flexSpacer > div > div > div.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz.da-flex.da-vertical.da-directionColumn.da-justifyStart.da-alignStretch.da-noWrap.da-base > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.da-flex.da-horizontal.da-directionRow.da-justifyStart.da-alignStretch.da-noWrap.da-spacer > div.chat-3bRxxu.da-chat > div.titleWrapper-1l0xT9.theme-dark.da-titleWrapper.da-themeDark > div > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignCenter-1dQNNs.noWrap-3jynv6.da-flex.da-horizontal.da-directionRow.da-justifyStart.da-alignCenter.da-noWrap,#app-mount > div.app-19_DXt.platform-win.da-app.da-platformWin > div.app.flex-vertical.theme-dark.da-app.da-flexVertical.da-themeDark > div.layers-3iHuyZ.flex-vertical.flex-spacer.da-layers.da-flexVertical.da-flexSpacer > div > div > div.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz.da-flex.da-vertical.da-directionColumn.da-justifyStart.da-alignStretch.da-noWrap.da-base > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.da-flex.da-horizontal.da-directionRow.da-justifyStart.da-alignStretch.da-noWrap.da-spacer > div.gameLibrary-TTDw4Y.da-gameLibrary > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignCenter-1dQNNs.noWrap-3jynv6.headerBarDrag-3bf7wG.headerBar-UHpsPw.da-flex.da-horizontal.da-directionRow.da-justifyStart.da-alignCenter.da-noWrap.da-headerBarDrag.da-headerBar > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignCenter-1dQNNs.noWrap-3jynv6.da-flex.da-horizontal.da-directionRow.da-justifyStart.da-alignCenter.da-noWrap  {
+    margin-right: 98px;
+}
+.theme-dark .content-yTz4x3 {
+    border-radius: 0px 0px 8px 0px;
+}
+.theme-dark .guildsWrapper-5TJh6A {
+    background-color: rgba(0, 0, 0, .5) !important;
+}
+.channelNotices-41mJbj .channelNotice-1-XFjC.invite-OjTXrW {
+    background: rgba(0, 0, 0, .5) url(/assets/bf625d222187f542b9d7179109422e2c.svg) no-repeat center 20px;
+}
+.container-PNkimc {
+    background: rgba(0,0,0,0.5) !important;
+}
+.theme-dark .embedPill-1Zntps {
+    background-color: rgba(255, 98, 98, 0.7);
+}
+.theme-dark .gameLibrary-TTDw4Y {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.missingAccess-3szpts {
+    background-color: rgba(0,0,0,0.5);
+}
+.privateChannels-1nO12o .channel-2fhmY8:hover .selectedLink-3dsNZ6 {
+    background-color: rgba(0, 0, 0, 0.59);
+}
+.theme-dark .title-3qD0b- {
+    background: rgba(0, 0, 0, 0.75) !important;
+}
+.private-channels .scrollerWrap-2lJEkd {
+    border-radius: 0px 0px 0px 0px;
+}
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
+    background-color: rgba(255, 98, 98, 0.7) !important;
+    color: #fff;
+
+}
+.article-3kb3qm {
+    background-color: rgba(32, 34, 37, 0.22);
+}
+.theme-dark .activityFeed-28jde9 {
+    border-radius: 0px 8px 8px 2px;
+}
