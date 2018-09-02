@@ -1,6 +1,0 @@
-//META{"name":"CitadorFontFix","description":" Font Fixer for Citador","author":"Leaversa","version":"1.0"}*//
-
-.citar-btn {
-	   --Chat-Font-Used: "Segoe MDL2 Assets", "Whitney" !important;
-		font-family: var(--Chat-Font_Used) !important;
-}
