@@ -1,0 +1,20 @@
+{
+    "Hide Blocked Messages": {
+        "state": true
+    },
+    "Light Tooltips": {
+        "state": false
+    },
+    "Combine Channels": {
+        "state": false
+    },
+    "Alternating Message Background Colors": {
+        "state": false
+    },
+    "Chat Bubbles": {
+        "state": false
+    },
+    "Typing Indicator": {
+        "state": false
+    }
+}

@@ -1,0 +1,5 @@
+//META{"name":"GlowStatus","description":"Adjustable radial status, with glow effect & larger avatars. Please use the support server listed below if you need any help.","author":"Satoru","version":"1","website":"http://discord.gg/fjvwb95"}*//{}
+
+@import url(https://satoru8.github.io/Addons/GlowStatus.css);
+
+:root {--round: 50%} /* 10% Square, 50% Circle */

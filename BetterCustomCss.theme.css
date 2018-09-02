@@ -1,0 +1,138 @@
+/*Blur email in settings*/
+.user-settings-account .ui-form-item:last-of-type .view-body.selectable-prgIYK:last-of-type {
+    -webkit-filter: blur(5px) !important;
+}
+.user-settings-account .ui-form-item:last-of-type .view-body.selectable-prgIYK:last-of-type:hover {
+    -webkit-filter: initial !important;
+}
+/*Blur Discriminator*/
+.accountDetails-15i-_e .discriminator {
+  -webkit-filter: blur(1.5px) !important;  
+}
+.accountDetails-15i-_e .discriminator:hover {
+    -webkit-filter: initial !important;
+}
+/* fix for stupid discord updates */
+.layers,
+.layer,
+.container-RYiLUQ {
+	background: transparent !important;
+}
+.appMount-14L89u {
+    background-color: rgba(32, 34, 37, 0);
+}
+.container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
+    background-color: transparent !important;
+}
+
+/* Background */
+.app {
+    background-image: url(https://i.imgur.com/r82aiEg.png) !Important; 
+    background-size: cover !important;	
+}
+.theme-dark .layer, .theme-dark .layers {
+    background: rgba(0, 0, 0, 1) !important;
+}
+
+
+
+/* Friends Menu */
+.headerBar-cxbhPD {
+    background: transparent !important
+}
+
+
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {
+    background-color: #ff6262;
+}
+
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary.selected {
+    background-color: #fff;
+    color: #ff6262;
+}
+
+#friends .friends-table .friends-row .friends-column-guilds .avatar-small {
+    background-color: #ff6262;
+    color: #fff;
+}
+
+/* Custom Css Editor */
+.ui-standard-sidebar-view #editor-detached button {
+    background: #ff6262;
+}
+
+.content-region .CodeMirror-simplescroll-vertical div, .content-region .CodeMirror-simplescroll-horizontal div, #bd-customcss-detach-container .CodeMirror-simplescroll-vertical div, #bd-customcss-detach-container .CodeMirror-simplescroll-horizontal div {
+    background: #ff6262;
+}
+/*Clock*/
+#clockPluginClock {
+  bottom: 0;
+  background: rgba(51, 51, 51, 0);
+  font-size: 75%;
+  padding: 0 12px 0 6px;
+}
+/* Popup*/
+[class*=userPopout-] .member-roles {
+    max-height: 230px;
+    overflow-y: auto;
+}
+/*Transparency*/
+.theme-dark .activityFeed-HeiGwL {
+    background: transparent;
+}
+.theme-dark .activity-3tgXuD {
+    background:transparent;
+}
+.theme-dark .header-34ZDfM {
+    background-color: rgba(32, 34, 37, 0.15);
+}
+.theme-dark .content-1RjmSK {
+    background-color: rgba(0, 0, 0, 0);
+    color: #b9bbbe;
+}
+.theme-dark .content-1RjmSK:hover {
+    background-color: rgba(79, 84, 92, 0.22);
+}
+.private-channels .scrollerWrap-2uBjct {
+    background: rgba(79,84,82,0.24);
+}
+.scroller-NXV0-d {
+    background-color: rgba(32,34,37,.5) !important;
+}
+.chat .content .flex-spacer, .channel-members {
+    background: rgba(32,34,37,.5) !important;
+}
+.theme-dark .image-3Xac3c {
+    background-image: url()
+}
+
+/* BetterFormating */
+.bf-toolbar, .bf-toolbar:before, .bf-toolbar .bf-arrow {
+    display: inline!important;
+}
+.bf-toolbar:before {
+    background: transparent !important;
+}
+
+/* Settings */
+ol, ul {
+	color:rgba(255, 255, 255, 0.5)
+}
+/*Activity tab*/
+.theme-dark .playTime-1sIPBr,
+.theme-dark .nameTag-RG5DEB { 
+	color: rgba(203, 208, 216, 0.73);
+}
+.unreadIndicator-3-i9eE {
+	background-color: #ff6262;
+}
+.DevilBro-modal .backdrop-2ohBEd {
+    background-color: (0,0,0,0,0);
+}
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary .badge {
+rgba(206, 10, 10, 0.95);
+}
+.chat .content .flex-spacer, .channel-members {
+    background: rgba(79,84,82,0.24) !important;
+}
+/*copy plugin*/
