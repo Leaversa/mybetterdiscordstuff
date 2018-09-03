@@ -219,3 +219,9 @@ button.copybutton {
 .theme-dark .activityFeed-28jde9 {
     border-radius: 0px 8px 8px 2px;
 }
+.theme-dark .friends-table {
+    background-color: rgba(0,0,0,0);
+}
+.theme-dark #friends {
+    background-color: rgba(0,0,0,0.5);
+}
