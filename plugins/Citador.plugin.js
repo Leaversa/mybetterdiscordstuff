@@ -38,7 +38,7 @@ class Citador {
       type: 'text/css',
       id: 'citador-css',
       rel: 'stylesheet',
-      href: 'https://rawgit.com/nirewen/Citador/master/Citador.styles.css?v=2'
+      href: 'https://cdn.jsdelivr.net/gh/nirewen/Citador/Citador.styles.css?v=2'
     });
 
     if (!this.strings) 
